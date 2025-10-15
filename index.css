@@ -8,6 +8,7 @@ body {
 .portrait {
     border-radius: 50%;
     overflow: hidden;
+    max-width: 150px;
 }
 .portrait img {
     /* transform: scale(1.06); */
